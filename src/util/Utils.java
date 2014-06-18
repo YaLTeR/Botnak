@@ -42,8 +42,8 @@ import java.util.regex.Pattern;
  */
 public class Utils {
 
-	static final int DOWNLOAD_MAX_FACE_HEIGHT = 26;
-	static final int DOWNLOAD_MAX_ICON_HEIGHT = 26;
+    static final int DOWNLOAD_MAX_FACE_HEIGHT = 26;
+    static final int DOWNLOAD_MAX_ICON_HEIGHT = 26;
 
     static Random r = new Random();
 
